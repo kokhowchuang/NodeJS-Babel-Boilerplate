@@ -1,6 +1,6 @@
 # NodeJS Babel Backend
 
-> NodeJS written in Babel for backend server
+> NodeJS written in Babel for backend server, for technical test purpose only.
 
 ## Build Setup
 
