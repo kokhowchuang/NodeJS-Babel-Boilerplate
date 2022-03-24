@@ -1,4 +1,4 @@
-# Boogiz Backend
+# NodeJS Babel Backend
 
 > NodeJS written in Babel for Backend Server
 
