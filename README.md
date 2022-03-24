@@ -1,6 +1,6 @@
-# NodeJS Babel Backend
+# Node-Babel Boilerplate
 
-> NodeJS written in Babel for backend server, for technical test purpose only.
+> A minimal and neat Node-Babel boilerplate for technical test purpose.
 
 ## Build Setup
 
